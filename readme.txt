@@ -17,7 +17,7 @@
 
   /coding/ cd cat
   /coding/cat/ ruby cat.rb
-     [space] for sound effect; [esc] to exit game
+     [space] for sound effect; [esc] to exit game; [2] toggles 2nd player
   /coding/cat/    
   /coding/cat/ ruby cpncat.rb
 
