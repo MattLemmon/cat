@@ -29,7 +29,7 @@
 
   http://www.sublimetext.com/
 
-7. Also check out     libgosu.com       many thanks:     Gosu    jlnr
+7. Also check out http://www.libgosu.org   many thanks:  Gosu    jlnr
                                                         Chingu   ippa
                                                        WallJump  Maverick
                                                                  spooner
